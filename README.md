@@ -18,6 +18,6 @@ This is an Amazon Alexa skill that aids agriculture managers by offering them pr
             - Calculate evapotranspiration in field {field_num} in {days} days
             - Calculate evapotranspiration in field {field_num} in {days} day
             - Calculate evapotranspiration in field {field_num} in {days} days
-            ```
+        ```
     3. Modify the skill code by inserting the content of the file 'request_handler.py' as a new class.
 5. Perform the deployment of the code, build, and test of the skill.
