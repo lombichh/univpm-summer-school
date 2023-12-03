@@ -1,0 +1,52 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Campo carote - Pianura padana",
+        "lat": 44.60,
+        "lon": 11.00,
+        "area": 4,
+        "uom": "ha",
+        "crop": "carrots",
+        "seedingDate": 1624186800
+    },
+    "2": {
+        "id": 2,
+        "name": "Campo insalata - Etiopia",
+        "lat": 5.97,
+        "lon": 36.11,
+        "area": 4,
+        "uom": "ha",
+        "crop": "salad",
+        "seedingDate": 1622199600
+    },
+    "3": {
+        "id": 3,
+        "name": "Campo spinaci - Minnesota",
+        "lat": 46.41,
+        "lon": -94.49,
+        "area": 4,
+        "uom": "ha",
+        "crop": "spinach",
+        "seedingDate": 1624878000
+    },
+    "4": {
+        "id": 4,
+        "name": "Campo insalata - Madrid",
+        "lat": 40.55,
+        "lon": -3.85,
+        "area": 4,
+        "uom": "ha",
+        "crop": "salad",
+        "seedingDate": 1625914800
+    },
+    "5": {
+        "id": 4,
+        "name": "Campo carote - Lione",
+        "lat": 45.81,
+        "lon": 5.00,
+        "area": 4,
+        "uom": "ha",
+        "crop": "carrots",
+        "seedingDate": 1622286000
+    }
+}
