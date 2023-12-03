@@ -1,5 +1,5 @@
 # UNIVPM summer school
-This is an Amazon Alexa skill that aids agriculture managers by offering them precise daily water recommendations based on real-time weather insights, sun angle, and crop-specific data.
+UNIVPM summer school contains an Amazon Alexa skill that aids agriculture managers by offering them precise daily water recommendations based on real-time weather insights, sun angle, and crop-specific data.
 
 ## How to use
 1. Insert the file 'lambda_function.py' into Amazon AWS as a new Lambda function (replace {API key} with your OpenWeatherMap API key).
