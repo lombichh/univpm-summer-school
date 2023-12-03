@@ -46,7 +46,7 @@ def lambda_handler(event, context):
         + str(lat)
         + "&lon="
         + str(lon)
-        + "&exclude=minutely,hourly&appid=f363c66492ed166783b1304cc814a105"
+        + "&exclude=minutely,hourly&appid={API key}"
     )
     
     # calculate eto
